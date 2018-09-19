@@ -1,5 +1,5 @@
 # ticTacMobile
-Mobile game in tic Tac toe. Works on Anroid.
+Mobile game in tic Tac toe. Works on Android.
 
 I used React Native and Android Studio.
 
